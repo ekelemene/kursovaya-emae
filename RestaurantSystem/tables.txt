@@ -1,0 +1,4 @@
+1,Основной,4,False
+2,Основной,2,False
+3,VIP,6,True
+4,VIP,4,True
